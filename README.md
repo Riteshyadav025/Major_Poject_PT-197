@@ -93,10 +93,10 @@ Open: [http://localhost:8501](http://localhost:8501)
 
 **Team Members:**
 
-- Ritesh Yadav
+- Piyush Kumar
 - Aryan Raj
 - Akshat Kumar Choudhary
-- Piyush Kumar
+- Ritesh Yadav
 
 **Project Guide:** Mrs. Shruti Sharma
 
